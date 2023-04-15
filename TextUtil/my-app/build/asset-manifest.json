@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39affde7.css",
+    "main.js": "/static/js/main.390e309d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/shivam.jpeg": "/static/media/shivam.ee9f9d71615da645cd6a.jpeg",
+    "index.html": "/index.html",
+    "main.39affde7.css.map": "/static/css/main.39affde7.css.map",
+    "main.390e309d.js.map": "/static/js/main.390e309d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39affde7.css",
+    "static/js/main.390e309d.js"
+  ]
+}
